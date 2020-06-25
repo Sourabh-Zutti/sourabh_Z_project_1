@@ -1,4 +1,4 @@
-# sourabh_Z_project_1
+# sourabh_Z_project_2_in_one_Language_Tool
 Project 2 in 1 English Language tool 
 
 This project has been developed by using Python. 
